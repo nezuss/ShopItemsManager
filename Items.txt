@@ -1,0 +1,10 @@
+0|jacket|tight|red|natural|XL|Lisoa|62,4|0
+1|formal|straight|green|synthetic|S|Hegs|55|0
+2|jeans|straight|bodily|synthetic|SM|Hegs|33,52|0
+3|jeans|loose|green|denim|S|Hegs|136,1|0
+4|jacket|loose|red|natural|M|Demy|40,99|0
+5|tux|loose|red|natural|XL|Lisoa|152,11|0
+6|formal|straight|bodily|synthetic|XXL|Hegs|61,14|12,53
+7|jacket|straight|bodily|denim|M|Demy|67,15|0
+8|tux|tight|green|synthetic|S|Lisoa|51,15|0
+9|jeans|straight|blue|denim|M|Demy|83,26|11,6
